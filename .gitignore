@@ -1,0 +1,45 @@
+# =========================
+# Python virtual environments
+# =========================
+venv/
+.venv/
+.venv311/
+env/
+ENV/
+
+# =========================
+# Python cache & artifacts
+# =========================
+__pycache__/
+*.py[cod]
+*$py.class
+
+# =========================
+# Jupyter Notebook
+# =========================
+.ipynb_checkpoints/
+
+# =========================
+# VS Code
+# =========================
+.vscode/
+
+# =========================
+# OS files
+# =========================
+.DS_Store
+Thumbs.db
+
+# =========================
+# Logs & temporary files
+# =========================
+*.log
+*.tmp
+*.swp
+
+# =========================
+# Data (optional)
+# Uncomment if you do NOT want to track raw data
+# =========================
+# data/raw/
+# data/interim/
