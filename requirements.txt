@@ -17,3 +17,6 @@ ipykernel>=6.25,<7.0
 
 # Optional but useful
 tqdm>=4.66,<5.0
+
+# 
+openpyxl
