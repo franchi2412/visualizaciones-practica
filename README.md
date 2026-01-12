@@ -68,6 +68,10 @@ Los datos han sido procesados y normalizados para permitir comparaciones tempora
 
 ## Estructura del proyecto
 
+El repositorio del proyecto donde se puede encontrar en juypter notebook con el código python asi como los archivos necesarios para el analisis se puede encontrar en:
+
+[visualizaciones-practica](https://github.com/franchi2412/visualizaciones-practica)
+
 ```text
 visualizaciones-practica/
 ├── data/
