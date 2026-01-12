@@ -32,7 +32,7 @@ El trabajo combina análisis de datos, visualización interactiva y una narrativ
 El resultado principal del proyecto es una **historia interactiva** creada con Flourish, que integra todas las visualizaciones desarrolladas:
 
 **Accede a la historia aquí:**  
-https://public.flourish.studio/story/3546453/
+[Visualización en Flourish](https://public.flourish.studio/story/3546453/)
 
 La historia incluye:
 - Evolución temporal de los sistemas de calefacción
